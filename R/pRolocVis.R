@@ -457,7 +457,7 @@ pRolocVis <- function(object, method = "PCA") {
                              sI = .searchInd(),
                              cIS = input$chooseIdenSearch,
                              ind = "object1",
-                             listSaSe = .listSaseInd(),
+                             listSaSe = .listSaSeInd(),
                              method = method)
                     )
                 
